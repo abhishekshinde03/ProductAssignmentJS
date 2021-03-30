@@ -1,1 +1,16 @@
-[{  "Product_Name": "MacbookAir",  "Price": "$67900.00",  "Description": "Apple MacBook Air (13-inch, 8GB RAM, 128GB Storage, 1.8GHz Intel Core i5)-Silver",  "Features": [    "13.3-inch (diagonal) LED-backlit Retina display",    "1.8GHz dual-core 5th-generation Intel Core i5 with Turbo Boost up to 2.9GHz",    "Up to 10 hours wireless web battery life",    "128GB or 256GB SSD",    "Intel HD Graphics 6000",    "Two USB 3 ports (up to 5 Gbps), Thunderbolt 2 port (up to 20 Gbps), MagSafe 2 power port, SDXC card slot",    "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible. Bluetooth 4.0 wireless technology"  ],  "Prodcut_Image": "img/macbookair.jpg"}]
+
+{
+  "Product_Name": "MacbookAir",
+  "Price": "$67900.00",
+  "Description": "Apple MacBook Air (13-inch, 8GB RAM, 128GB Storage, 1.8GHz Intel Core i5)-Silver",
+  "Features": [
+    "13.3-inch (diagonal) LED-backlit Retina display",
+    "1.8GHz dual-core 5th-generation Intel Core i5 with Turbo Boost up to 2.9GHz",
+    "Up to 10 hours wireless web battery life",
+    "128GB or 256GB SSD",
+    "Intel HD Graphics 6000",
+    "Two USB 3 ports (up to 5 Gbps), Thunderbolt 2 port (up to 20 Gbps), MagSafe 2 power port, SDXC card slot",
+    "802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible. Bluetooth 4.0 wireless technology"
+  ],
+  "Prodcut_Image": "img/macbookair.jpg"
+}
